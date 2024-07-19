@@ -57,11 +57,11 @@ div .choices__inner {
 .carousel {
   margin-top: 20px;
   width: 100%;
-  height: 50vh; /* Setăm înălțimea la 50% din înălțimea viewport-ului */
+  height: 50vh;
 }
 
 .slick-slide {
-  margin: 0 10px; /* Adaugă spațiu între slide-uri */
+  margin: 0 10px;
 }
 
 .slide {
@@ -69,15 +69,15 @@ div .choices__inner {
   padding: 20px;
   border-radius: 10px;
   text-align: center;
-  height: 100%; /* Asigură că slide-urile ocupă întreaga înălțime a caruselului */
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 300px; /* Setăm o lățime specifică pentru slide-uri */
+  width: 300px;
 }
 
 .slide-content {
-  height: 100%; /* Asigură că conținutul slide-ului ocupă întreaga înălțime */
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
